@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @atharvpote
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Atharv
+
+- 👨‍💻 I’m a Frontend Developer who loves making high-quality websites and applications.
+- 🌱 I’m currently learning Next JS
+- 💭 Ask me anything related to Javascript/Typescript
+- 📫 How to reach me: atharvpote@gmail.com
 
 <!---
 atharvpote/atharvpote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
