@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Atharv
 
 - 👨‍💻 I’m a Frontend Developer who loves making high-quality websites and applications.
-- 🌱 I’m currently learning Next JS
+- 🌱 I’m currently learning about Databases
 - 💭 Ask me anything related to Javascript/Typescript
 - 📫 How to reach me: atharvpote@gmail.com
 
